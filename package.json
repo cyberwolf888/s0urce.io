@@ -1,0 +1,19 @@
+{
+  "name": "s0urce.io",
+  "version": "1.0.0",
+  "description": "A bot plays for you!",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/.bin/eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadHand/s0urce.io.git"
+  },
+  "author": "@SadHand",
+  "license": "MIT",
+  "homepage": "https://github.com/SadHand/s0urce.io#readme",
+  "dependencies": {
+    "eslint": "^4.2.0"
+  }
+}
